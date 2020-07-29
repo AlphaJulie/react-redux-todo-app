@@ -1,0 +1,22 @@
+li {
+  list-style: none;
+}
+.container {
+  background-color: rgb(231, 231, 231);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.to-do-container {
+  margin-top: 60px;
+  position: absolute;
+  width: 80%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+

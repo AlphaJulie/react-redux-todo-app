@@ -1,0 +1,10 @@
+.to-do {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+  }
+  
+  .delete-btn {
+    position: absolute;
+    right: 10px;
+  }
